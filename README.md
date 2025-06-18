@@ -4,6 +4,15 @@ This application is a steganographic tool designed to securely hide files within
 
 ![Logo](banner.png)
 
+<p align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Amahing/InvisiPic">
+  <img alt="Python lang" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/amahing/InvisiPic">
+    
+
+
+</p>
+
 # 💻 OS Support
 
 | Operating System | Supported? |
@@ -15,7 +24,7 @@ This application is a steganographic tool designed to securely hide files within
 # How to Run the Project
 
 ## 🟩 Option 1: Run the Executable
-You can download the `.exe` file from the [Releases](https://github.com/Amahing/invisi-pic/releases) section.
+You can download the `.exe` file from the [Releases](https://github.com/Amahing/InvisiPic/releases) section.
 
 ---
 
