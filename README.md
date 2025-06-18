@@ -53,8 +53,8 @@ You can download and run the `.exe` file from the [Releases](https://github.com/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Amahing/invisi-pic.git
-cd invisi-pic
+git clone https://github.com/Amahing/InvisiPic.git
+cd InvisiPic
 ```
 
 ### 2. Install uv
