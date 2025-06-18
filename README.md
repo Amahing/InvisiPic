@@ -76,3 +76,6 @@ uv run main.py
 
 ## Thanks for checking out this project! 🚀  
 If you find it useful, consider giving it a ⭐ on GitHub.
+
+
+[![Amahing profile views](https://u8views.com/api/v1/github/profiles/53094654/views/day-week-month-total-count.svg)](https://u8views.com/github/Amahing)
