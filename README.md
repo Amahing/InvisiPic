@@ -8,9 +8,6 @@ This application is a steganographic tool designed to securely hide files within
   <img alt="GitHub License" src="https://img.shields.io/github/license/Amahing/InvisiPic">
   <img alt="Python lang" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/amahing/InvisiPic">
-    
-
-
 </p>
 
 # 💻 OS Support
@@ -20,34 +17,6 @@ This application is a steganographic tool designed to securely hide files within
 | Windows          | ✅ Yes     |
 | macOS            | ❌ No      |
 | Linux            | ❌ No      |
-
-# How to Run the Project
-
-## 🟩 Option 1: Run the Executable
-You can download the `.exe` file from the [Releases](https://github.com/Amahing/InvisiPic/releases) section.
-
----
-
-## 🛠 Option 2: Run from Source Code
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Amahing/invisi-pic.git
-cd invisi-pic
-```
-
-### 2. Install uv
-
-#### On Windows (PowerShell):
-```bash
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
-
-### 3. Run the Application
-From inside the project directory, execute:
-```bash
-uv run main.py
-```
 
 # Guide to using the application
 #### Screenshot app
@@ -72,6 +41,34 @@ uv run main.py
 - Set the output file path and name for the extracted data.
 - Enter the password used for encryption to decrypt the data.
 - Click **“Extract hidden content”** and wait for the success message.
+
+---
+
+# How to Run the Project
+
+## 🟩 Option 1: Run the Executable
+You can download and run the `.exe` file from the [Releases](https://github.com/Amahing/InvisiPic/releases) section.
+
+## 🛠 Option 2: Run from Source Code
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Amahing/invisi-pic.git
+cd invisi-pic
+```
+
+### 2. Install uv
+
+#### On Windows (PowerShell):
+```bash
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+### 3. Run the Application
+From inside the project directory, execute:
+```bash
+uv run main.py
+```
 
 ---
 
