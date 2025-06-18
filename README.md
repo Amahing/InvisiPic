@@ -2,7 +2,9 @@
 
 This application is a steganographic tool designed to securely hide files within PNG images using the Least Significant Bit (LSB) method. It features a user-friendly graphical interface with customizable settings for selecting specific RGB channel combinations, and includes built-in stream encryption based on the ChaCha20 algorithm to ensure robust data protection.
 
-![Logo](banner.png)
+<div align="center">
+  <img src="banner.png" alt="Banner app" width="65%">
+</div>
 
 <p align="center">
   <img alt="GitHub License" src="https://img.shields.io/github/license/Amahing/InvisiPic">
