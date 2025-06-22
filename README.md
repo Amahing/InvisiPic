@@ -45,7 +45,6 @@ This application is a steganographic tool designed to securely hide files within
 - Click **“Extract hidden content”** and wait for the success message.
 
 ---
-
 # How to Run the Project
 
 ## 🟩 Option 1: Run the Executable
@@ -73,7 +72,6 @@ uv run main.py
 ```
 
 ---
-
 ## Thanks for checking out this project! 🚀  
 If you find it useful, consider giving it a ⭐ on GitHub.
 
